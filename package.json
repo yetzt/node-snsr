@@ -1,7 +1,7 @@
 {
   "name": "snsr",
   "version": "0.0.1",
-  "description": "lm-sensors",
+  "description": "lm-sensors data",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -12,8 +12,8 @@
     "lm-sensors",
     "sensor",
     "cpu",
-    "macos",
-    "linux"
+    "linux",
+    "temperatures"
   ],
   "author": "yetzt <node@yetzt.me>",
   "license": "Unlicense",
